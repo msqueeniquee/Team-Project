@@ -12,7 +12,7 @@ This is a collaborative web project to demonstrate Git and GitHub workflow.
 - styles.css: Stylesheet for the website
 
 ## Getting Started
-1. Clone the repository
+1. Create the repository
 2. Open index.html in a web browser
 
 ## Contributing
